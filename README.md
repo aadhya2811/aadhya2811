@@ -31,4 +31,4 @@ tools      = ["Git", "Google Colab", "CUDA", "ONNX", "Arduino"]
 
 [![Email](https://img.shields.io/badge/email-aadhyashetty2602@gmail.com-a78bfa?style=flat&logo=gmail&logoColor=white)](mailto:aadhyashetty2602@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-connect-60a5fa?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![Portfolio](https://img.shields.io/badge/portfolio-visit-c084fc?style=flat&logo=vercel&logoColor=white)](https://aadhya2811.github.io)
+[![Portfolio](https://img.shields.io/badge/portfolio-visit-c084fc?style=flat&logo=vercel&logoColor=white)](https://portfolio-psi-eight-m7him90sb4.vercel.app/)
